@@ -9,7 +9,7 @@ The University of Alabama College of Engineering\
 ![alt text][1.1]][1]
 ![alt text][2.2]][2]
 
-[1.2]: (https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)
+[1.2]: https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
 
 [1]: http://www.twitter.com/carlsednaoui
