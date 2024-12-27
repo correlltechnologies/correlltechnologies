@@ -8,7 +8,7 @@ The University of Alabama College of Engineering\
 
 ![test](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)[1]
 
-![alt text][1.1]][1]
+![alt text][1.2]][1]
 ![alt text][2.2]][2]
 
 [1.2]: https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg
