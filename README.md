@@ -6,15 +6,6 @@ The University of Alabama College of Engineering\
 
 <!-- display the social media buttons in your README -->
 
-![test](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)[(LinkedIn)](www.test.com)
-
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg">](https://link-to-your-url)
+[<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg">](https://link-to-your-url)
 
-![alt text][1.2]][1]
-![alt text][2.2]][2]
-
-[1.2]: https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
