@@ -6,6 +6,8 @@ The University of Alabama College of Engineering\
 
 <!-- display the social media buttons in your README -->
 
+![test](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)
+
 ![alt text][1.1]][1]
 ![alt text][2.2]][2]
 
